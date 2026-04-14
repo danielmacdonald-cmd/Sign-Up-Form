@@ -1,0 +1,29 @@
+.one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 500px;
+}
+
+.two{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
