@@ -1,8 +1,13 @@
+body{
+    background-image: url(download.jpg)
+    width
+}
+
 .one{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding-left: 500px;
+    padding-left: 1000px;
 }
 
 .two{
@@ -13,8 +18,14 @@
 
 button{
     margin-left: 1170px;
-
+    margin-top: 15px;
 }
+
+
+
+
+
+
 
 
 
