@@ -1,6 +1,5 @@
 body{
-    background-image: url(download.jpg)
-    width
+    background-image: url(download.jpg);
 }
 
 .one{
@@ -13,18 +12,25 @@ body{
 .two{
     display: flex;
     flex-direction: column;
+ }
+
+
+.ten{
+   margin-left: 1000px;
+   background-color: white;
 }
 
 
 button{
-    margin-left: 1170px;
-    margin-top: 15px;
+    margin-right: 294px;
+    margin-top: 10px;
+    background-color: darkorange;
 }
 
 
-
-
-
+p{
+     
+}
 
 
 
