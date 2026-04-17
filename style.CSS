@@ -1,40 +1,14 @@
 body{
     background-image: url(download.jpg);
+
 }
 
 .one{
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding-left: 1000px;
-}
-
-.two{
-    display: flex;
     flex-direction: column;
- }
-
-
-.ten{
-   margin-left: 1000px;
-   background-color: white;
+    
+    background-color: white;
 }
-
-
-button{
-    margin-right: 294px;
-    margin-top: 10px;
-    background-color: darkorange;
-}
-
-
-p{
-     
-}
-
-
-
-
 
 
 
