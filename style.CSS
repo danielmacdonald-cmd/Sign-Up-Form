@@ -5,11 +5,41 @@ body{
 
 .one{
     display: flex;
-    flex-direction: column;
-    
-    background-color: white;
+   height: 100vh;
 }
 
+.five{
+    flex: 1;
+    background-image: url(download.jpg);
+    background-size: cover;
+    background-position: center;
+  
+  
+}
+
+.two{
+    flex: 1;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+}
+
+.two input{
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.five p{
+    position: absolute;
+    top:40px;
+    right: 40px;
+    max-width: 400px;
+    text-align: left;
+    font-size: 50px;
+    
+}
 
 
 
