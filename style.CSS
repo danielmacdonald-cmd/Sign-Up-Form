@@ -1,47 +1,48 @@
 body{
     background-image: url(download.jpg);
-
 }
 
 .one{
     display: flex;
-   height: 100vh;
-}
-
-.five{
-    flex: 1;
-    background-image: url(download.jpg);
-    background-size: cover;
-    background-position: center;
-  
-  
+    flex-direction: column;
+    background-color: white;
+    border-radius: 15px;
+    padding-bottom: 50px;
 }
 
 .two{
-    flex: 1;
-    background-color: white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.three{
     display: flex;
     flex-direction: column;
+}
+
+.four{
+    display: flex;
+    flex-direction: column;
+}
+
+.five{
+    display: flex;
     justify-content: center;
-    padding: 40px;
+    padding-left: 140px;
+    padding-right: 140px;
 }
 
-.two input{
-    margin-bottom: 10px;
-    width: 100%;
+.button{
+    padding-top: 12px;
+    padding-left: 504px;
+    padding-bottom: 12px;
 }
 
-.five p{
-    position: absolute;
-    top:40px;
-    right: 40px;
-    max-width: 400px;
-    text-align: left;
-    font-size: 50px;
-    
+button{
+    background-color: rgb(105, 64, 10);
+    color: skyblue;
 }
-
-
 
 
 
